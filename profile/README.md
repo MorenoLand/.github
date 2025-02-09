@@ -2,8 +2,6 @@
 
 The main focus of this is to have a group of freelance devs focused on **preserving video games**. Our *"mission"* would be to archive, restore, and keep any classic games we find interesting alive for future generations to enjoy.
 
-## Goals of this orginization: 🔧
-
 ### 1. **Archiving Games** 📦  
    - Digitizing physical copies (cartridges, discs, etc.)
    - Storing digital copies in safe formats
@@ -22,6 +20,3 @@ The main focus of this is to have a group of freelance devs focused on **preserv
 ### 4. **Reverse Engineering** 🛠️  
    - Fixing bugs and making games compatible with newer systems
    - Documenting the process for others to contribute
-
----
-
