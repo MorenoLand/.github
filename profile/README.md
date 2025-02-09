@@ -1,17 +1,27 @@
-# About us 🌍
+# Welcome 
 
-Just a small group of freelance devs focused on **preserving video games**. Our mission is to archive, restore, and keep classic games alive for future generations to enjoy.
+The main focus of this is to have a group of freelance devs focused on **preserving video games**. Our *"mission"* would be to archive, restore, and keep any classic games we find interesting alive for future generations to enjoy.
+
+## Goals of this orginization: 🔧
+
+### 1. **Archiving Games** 📦  
+   - Digitizing physical copies (cartridges, discs, etc.)
+   - Storing digital copies in safe formats
+   - Ensuring long-term protection of data
+
+### 2. **Emulating Old Titles** 🖥️  
+   - Setting up and optimizing emulators
+   - Helping run retro games on modern systems
+   - Updating and fixing emulators when needed
+
+### 3. **Documenting History** 📚  
+   - Collecting game manuals, packaging, and artwork
+   - Archiving press materials and interviews
+   - Building a resource library for future generations
+
+### 4. **Reverse Engineering** 🛠️  
+   - Fixing bugs and making games compatible with newer systems
+   - Documenting the process for others to contribute
 
 ---
 
-## What We Do 🛠️
-
-- **Archiving Games**: Preserving both physical and digital copies of classic titles.
-- **Emulating Old Titles**: Ensuring retro games can still be played on modern systems.
-- **Documenting History**: Collecting game manuals, artwork, and other important resources.
-
----
-
-## How We Work 👾
-
-We operate on an **invite-only** basis—contributors must be referred by someone already involved in the project.
